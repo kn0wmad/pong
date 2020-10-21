@@ -1,0 +1,6 @@
+# Pong
+
+## Dependencies
+
+- tkinter
+- simplegui
